@@ -56,3 +56,28 @@
     color: #666;
     font-size: 12px;
 }
+.pricing-row {
+    display: flex;
+    flex-direction: row;
+    gap: 20px;
+    justify-content: center;
+    box-sizing: border-box;
+    width: 500px;
+    padding: 10px;
+}
+.plan {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    box-sizing: border-box;
+    width: 140px;
+    height: 160px;
+    border: 1px solid black;
+}
+.plan.featured {
+    border: 2px solid black;
+}
+.price {
+    font-weight: bold;
+    font-size: 18px;
+}
