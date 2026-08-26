@@ -1,0 +1,10 @@
+* {
+    font-family: "HYWenHei-85W", "Hanyi WenHei", "Microsoft YaHei", sans-serif;
+    text-align: center;
+}
+.card {
+    text-align: center;
+}
+.card:hover {
+    border: 1px solid black;
+}
