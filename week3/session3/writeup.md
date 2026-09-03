@@ -11,3 +11,7 @@
 ![account settings](screenshots/preferences.png)
 6. Scroll down to `PHP Setting`
 ![php settings](screenshots/php-settings.png)
+---
+# Result
+- PHP Version: 8.3
+- No upload issues found 
